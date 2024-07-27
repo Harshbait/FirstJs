@@ -1,0 +1,13 @@
+/* This all utility class used to remove borders */
+.bR{
+    border-right: 0;
+}
+.bL{
+    border-left: 0;
+}
+.bB{
+    border-bottom: 0;
+}
+.bT{
+    border-top: 0;
+}
